@@ -1,8 +1,8 @@
 # Jericho 941 (pre-2007) Stand
 
-![Jericho941Grips001](https://github.com/Archive-663/jericho941/blob/main/ASSETS/PHOTO/1 (1).jpg)
-![Jericho941Grips002](https://github.com/Archive-663/jericho941/blob/main/ASSETS/PHOTO/1 (2).jpg)
-![Jericho941Grips003](https://github.com/Archive-663/jericho941/blob/main/ASSETS/PHOTO/1 (3).jpg)
+![Jericho941Grips001](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(1).jpg)
+![Jericho941Grips002](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(2).jpg)
+![Jericho941Grips003](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(3).jpg)
 
 A stand for the Jericho 941 (pre-2007) and any CZ-75 based frame.
 
