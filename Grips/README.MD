@@ -29,6 +29,9 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 ### Designing your own grip texture:
 I've included two 2D design files for you to generate your own texture pattern that can be imported into your CAD program as a .dxf file. Generate a texture, cut it from the template, export as a .dxf file, open the .dxf file in your CAD program. From here you can either project and extrude or extrude, line up where you want it, choose the intersect boolean, and then raise the grip texture 0.5mm. 
 
+### Warning:
+These are still 3d printed grips. If you choose to print them and live fire with them, please do so at your own risk. 
+
 ### Help support Archive 663 with a dontation or monthly sub
 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
