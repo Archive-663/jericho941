@@ -1,6 +1,6 @@
 # Lot no. 014 | Accessories for the IMI Jericho 941 (Pre-2007)
 
-![samplePhoto001](https://github.com/Archive-663/jericho941/blob/main/ASSETS/PHOTO/1 (1).jpg)
+![samplePhoto001](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(1).jpg)
 
 ### In this repository:
 - [Jericho 941 Grips](https://github.com/Archive-663/jericho941/tree/main/Grips)
