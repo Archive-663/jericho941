@@ -19,7 +19,7 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 
 ### Printing suggestion:
 - I can only recommend Nylon-like SLA resin or some sort of MJF printing for these grips. You can try FDM printing, but I wasn't happy with the resolution of the finished print. It's possible to print a mold and cast them out of epoxy or urethane for increased strength and impact resistance.
-- I print the standard grips at a 15 degre tilt with the interior facing the build plate
+- I print the standard grips at a 15 degree tilt with the interior facing the build plate
 - Follow the printOrientationFile.lys for print orientation. I print with Lychee so I've included a printOrientationFile.STL if you use something else so you can understand how to orient your prints. 
 
 ### Post Processing:
