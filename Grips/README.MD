@@ -23,7 +23,7 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 - Follow the printOrientationFile.lys for print orientation. I print with Lychee so I've included a printOrientationFile.STL if you use something else so you can understand how to orient your prints. 
 
 ### Post Processing:
-- I left some material on the uppper dovetail or frech cleat so that you can get a firm fit on your frame. File it down so that the grip mounts up and doesn't move.
+- I left some material on the uppper dovetail or french cleat so that you can get a firm fit on your frame. File it down so that the grip mounts up and doesn't move.
 
 ### Designing your own grip texture:
 I've included two 2D design files for you to generate your own texture pattern that can be imported into your CAD program as a .dxf file. Generate a texture, cut it from the template, export as a .dxf file, open the .dxf file in your CAD program. From here you can either project and extrude or extrude, line up where you want it, choose the intersect boolean, and then raise the grip texture 0.5mm. 
