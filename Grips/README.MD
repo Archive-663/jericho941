@@ -1,6 +1,7 @@
 # Jericho 941 (pre-2007) Grips
 
 ![Jericho941Grips003](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(3).jpg)
+![Jericho941Grips004](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(4).jpg)
 ![Jericho941Grips006](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(6).jpg)
 
 A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
