@@ -1,7 +1,7 @@
 # Jericho 941 (pre-2007) Cowboy Bebop Prop
 
-![Jericho941Prop1](https://github.com/Archive-663/jericho941/blob/main/ASSETS/jerichoProp_1.jpg)
-![Jericho941Prop2](https://github.com/Archive-663/jericho941/blob/main/ASSETS/jerichoProp_2.jpg)
+![Jericho941Prop1](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/jerichoProp_1.jpg)
+![Jericho941Prop2](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/jerichoProp_2.jpg)
 
 ### Features:
 - Frame based on a Jericho 941F
