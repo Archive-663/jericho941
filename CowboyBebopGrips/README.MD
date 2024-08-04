@@ -14,11 +14,11 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 
 ### Features:
 - Two (2) backstraps
-	> Fullsize
-	> Midsize
+	- Fullsize
+	- Midsize
 - Laser module with adjustable windage and elevation
-	> Powered with one (1) CR2025
-- Backstraps with no lasre module
+	- Powered with one (1) CR2025
+- Backstraps with no laser module
 
 ### What you'll need:
 - A micro file
@@ -32,7 +32,7 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 - 3x M3 x 6mm Countersunk Machine Screw
 - 2x M3 x 3mm Set Screw (Grub Screw)
 - 1x 3mm x 4mm x 2.5mm Micro Momentary Switch
-<a href="https://www.ebay.com/itm/202655657434" target="_blank">1x 4mm red laser module found here</a>
+- <a href="https://www.ebay.com/itm/202655657434" target="_blank">1x 4mm red laser module found here</a>
 
 ### Printing suggestion:
 - I can only recommend Nylon-like SLA resin or some sort of MJF printing for these grips. You can try FDM printing, but I wasn't happy with the resolution of the finished print. It's possible to print a mold and cast them out of epoxy or urethane for increased strength and impact resistance.
