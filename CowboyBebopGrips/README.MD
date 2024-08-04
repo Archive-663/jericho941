@@ -46,22 +46,22 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 ### Assembling/Installation:
 - Check out the ...assembly.STEP files to understand how to assemble your grips and where the screws go to secure the grip.
 - To install the frontstrap, you'll have to work the dovetails over the frame to fit.
-	> Insert the laserPlate into the backstrap of your choice
-	> Secure the laserPlate with the two (2) M2 x 4mm Countersunk Machine Screws
-	> Install the Prusa Nuts on the inside of the backstrap
-	> Install the backstrap/laserPlate assembly so that the frontstrap dovetails engage with the laserPlate.
-	> Secure the grip with the two (2) M3 x 6mm Countersunk Machine Screws
-	> Install and secure the positive and negative leads to the Laser mainBody
-	> Install and solder the microswitch to the positive and negative leads
-	> Install the laser module and solder the negative and positive terminals to the battery terminal leads
-	> Install the laser plug
-	> Install the two (2) M3 x 3mm Set Screw
-	> Install the Laser mainBody
-	> Secure the Laser mainBody with the two (2) M2 x 8mm Hex Socket Machine Screws
-	> Install the CR2025 battery
-	> Install the TPU activation button to the battery cover
-	> Install the battery cover
-	> Secure with the M3 x 6mm Countersunk Machine Screw
+	- Insert the laserPlate into the backstrap of your choice
+	- Secure the laserPlate with the two (2) M2 x 4mm Countersunk Machine Screws
+	- Install the Prusa Nuts on the inside of the backstrap
+	- Install the backstrap/laserPlate assembly so that the frontstrap dovetails engage with the laserPlate.
+	- Secure the grip with the two (2) M3 x 6mm Countersunk Machine Screws
+	- Install and secure the positive and negative leads to the Laser mainBody
+	- Install and solder the microswitch to the positive and negative leads
+	- Install the laser module and solder the negative and positive terminals to the battery terminal leads
+	- Install the laser plug
+	- Install the two (2) M3 x 3mm Set Screw
+	- Install the Laser mainBody
+	- Secure the Laser mainBody with the two (2) M2 x 8mm Hex Socket Machine Screws
+	- Install the CR2025 battery
+	- Install the TPU activation button to the battery cover
+	- Install the battery cover
+	- Secure with the M3 x 6mm Countersunk Machine Screw
 
 ### Warning:
 These are still 3d printed grips. If you choose to print them and live fire with them, please do so at your own risk. 
