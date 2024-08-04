@@ -1,10 +1,12 @@
 # Lot no. 014 | Accessories for the IMI Jericho 941 (Pre-2007)
 
-![samplePhoto001](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/1%20(1).jpg)
+![samplePhoto001](https://github.com/Archive-663/jericho941/blob/main/ASSETS/photo/2%20(0).jpg)
 
 ### In this repository:
 - [Jericho 941 Grips](https://github.com/Archive-663/jericho941/tree/main/Grips)
+- [Jericho 941 Cowboy Bebop Grips](https://github.com/Archive-663/jericho941/tree/main/CowboyBebopGrips)
 - [Jericho 941 Stand](https://github.com/Archive-663/jericho941/tree/main/Stand)
+- [Jericho 941 Frame](https://github.com/Archive-663/jericho941/tree/main/Frame)
 
 ### Background Story:
 I picked up a surplus Jericho 941 a while ago with the intention of building out a set of functional Cowboy Bebop laser sight grips. I've finished them, but I'm looking to see if I can partner with someone to actually produce them. The plan is to produce them or upload them here if I can't find anyone in a reasonable amount of time. That said, I wanted to display my Jericho and have a set of back up stock grips. That's what's here in thie archive. Just some grips and a stand. Coming soon will be a simple speedloader/unloader and possibly the reverse engineered frame and raw scan data from my Jericho.
