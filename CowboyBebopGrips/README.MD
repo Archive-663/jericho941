@@ -26,12 +26,12 @@ A collection of Grips to improve the handling for the Jericho 941 (pre-2007)
 - M3 Tap
 - M2 Drill Bit
 - M3 Drill Bit
-2x Prusa Nut
-2x M2 x 8mm Hex Socket Machine Screw
-2x M2 x 4mm Countersunk Machine Screw
-3x M3 x 6mm Countersunk Machine Screw
-2x M3 x 3mm Set Screw (Grub Screw)
-1x 3mm x 4mm x 2.5mm Micro Momentary Switch
+- 2x Prusa Nut
+- 2x M2 x 8mm Hex Socket Machine Screw
+- 2x M2 x 4mm Countersunk Machine Screw
+- 3x M3 x 6mm Countersunk Machine Screw
+- 2x M3 x 3mm Set Screw (Grub Screw)
+- 1x 3mm x 4mm x 2.5mm Micro Momentary Switch
 <a href="https://www.ebay.com/itm/202655657434" target="_blank">1x 4mm red laser module found here</a>
 
 ### Printing suggestion:
